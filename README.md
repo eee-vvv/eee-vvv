@@ -1,4 +1,4 @@
-# Hi, I'm Evie!
+# Hi!
 
 I am a software engineer specializing in fullstack JavaScript/TypeScript web applications, but with broader interests in Unix-like operating systems and all that comes with them, from Bash scripting and Linux system administration to learning how they work under the hood by tinkering with assembly, C, and Rust.
 
